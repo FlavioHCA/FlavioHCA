@@ -1,6 +1,6 @@
 - 👋 Olá, Me chamo Flávio Henrique
 - 👀 Estou interessado em adiquirir conhecimentos sobre areas de programação web e programas
-- 🌱 Atualmente estou aprendendo os fundamentos da programação e cursando analise e desenvolvimento de sistemas
+- 🌱 Atualmente estou aprendendo programação web e cursando analise e desenvolvimento de sistemas
 - 💞️ Estou procurando colaborar em uma empresa e comunidade que me possam trazer mais conhecimentos
 - 📫 Para entrar em contato pode me chamar no whatsapp:(75)991751923, ou me chamar no email flaviocastro0901@gmail.com
 - 📫 Tambem pode me encontrar no linkedin: https://www.linkedin.com/in/flavio-desenvolvedor-programador/
